@@ -1,0 +1,8 @@
+C:\Users\hbanozmartinez\source\repos\C# course\Methods\MethodsProject\MethodsProject\bin\Debug\MethodsProject.exe.config
+C:\Users\hbanozmartinez\source\repos\C# course\Methods\MethodsProject\MethodsProject\bin\Debug\MethodsProject.exe
+C:\Users\hbanozmartinez\source\repos\C# course\Methods\MethodsProject\MethodsProject\bin\Debug\MethodsProject.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\Methods\MethodsProject\MethodsProject\obj\Debug\MethodsProject.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\Methods\MethodsProject\MethodsProject\obj\Debug\MethodsProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\hbanozmartinez\source\repos\C# course\Methods\MethodsProject\MethodsProject\obj\Debug\MethodsProject.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\Methods\MethodsProject\MethodsProject\obj\Debug\MethodsProject.exe
+C:\Users\hbanozmartinez\source\repos\C# course\Methods\MethodsProject\MethodsProject\obj\Debug\MethodsProject.pdb

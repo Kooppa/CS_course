@@ -1,0 +1,18 @@
+C:\CSharp\AssignmentMultipleObjects\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\CSharp\AssignmentMultipleObjects\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\CSharp\AssignmentMultipleObjects\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\CSharp\AssignmentMultipleObjects\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\CSharp\AssignmentMultipleObjects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\CSharp\AssignmentMultipleObjects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\CSharp\Assignments\AssignmentMultipleObjects\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\CSharp\Assignments\AssignmentMultipleObjects\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\CSharp\Assignments\AssignmentMultipleObjects\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\CSharp\Assignments\AssignmentMultipleObjects\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\CSharp\Assignments\AssignmentMultipleObjects\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\CSharp\Assignments\AssignmentMultipleObjects\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\Hashinc\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\hbanozmartinez\source\repos\C# course\Hashinc\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\Hashinc\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\Hashinc\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\Hashinc\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\hbanozmartinez\source\repos\C# course\Hashinc\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
