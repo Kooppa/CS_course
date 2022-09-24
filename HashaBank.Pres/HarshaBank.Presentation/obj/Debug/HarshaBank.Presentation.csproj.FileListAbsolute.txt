@@ -1,0 +1,7 @@
+c:\CSharp\HarshaBank\HarshaBank.Presentation\bin\Debug\HarshaBank.Presentation.exe.config
+c:\CSharp\HarshaBank\HarshaBank.Presentation\bin\Debug\HarshaBank.Presentation.exe
+c:\CSharp\HarshaBank\HarshaBank.Presentation\bin\Debug\HarshaBank.Presentation.pdb
+c:\CSharp\HarshaBank\HarshaBank.Presentation\obj\Debug\HarshaBank.Presentation.csprojAssemblyReference.cache
+c:\CSharp\HarshaBank\HarshaBank.Presentation\obj\Debug\HarshaBank.Presentation.csproj.CoreCompileInputs.cache
+c:\CSharp\HarshaBank\HarshaBank.Presentation\obj\Debug\HarshaBank.Presentation.exe
+c:\CSharp\HarshaBank\HarshaBank.Presentation\obj\Debug\HarshaBank.Presentation.pdb
