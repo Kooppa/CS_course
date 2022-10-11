@@ -1,0 +1,22 @@
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.DataAccessLayer.dll
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.DataAccessLayer.pdb
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.Entities.dll
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.Exceptions.dll
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.Entities.pdb
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.Exceptions.pdb
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\obj\Debug\HarshaBank.DataAccessLayer.csprojAssemblyReference.cache
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\obj\Debug\HarshaBank.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\obj\Debug\HarshaBank.DataAccessLayer.csproj.CopyComplete
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\obj\Debug\HarshaBank.DataAccessLayer.dll
+C:\CSharp\HarshaBank\HarshaBank.DataAccessLayer\obj\Debug\HarshaBank.DataAccessLayer.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.DataAccessLayer.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.DataAccessLayer.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.Entities.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.Exceptions.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.Entities.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\bin\Debug\HarshaBank.Exceptions.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\obj\Debug\HarshaBank.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\obj\Debug\HarshaBank.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\obj\Debug\HarshaBank.DataAccessLayer.csproj.CopyComplete
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\obj\Debug\HarshaBank.DataAccessLayer.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.DataAccessLayer\obj\Debug\HarshaBank.DataAccessLayer.pdb

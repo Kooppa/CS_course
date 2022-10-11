@@ -1,0 +1,6 @@
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Exceptions\bin\Debug\BankProject.Exceptions.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Exceptions\bin\Debug\BankProject.Exceptions.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Exceptions\obj\Debug\BankProject.Exceptions.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Exceptions\obj\Debug\BankProject.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Exceptions\obj\Debug\BankProject.Exceptions.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Exceptions\obj\Debug\BankProject.Exceptions.pdb

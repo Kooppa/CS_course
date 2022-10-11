@@ -1,0 +1,18 @@
+C:\CSharp\HarshaBank\HarshaBank.Entities\bin\Debug\HarshaBank.Entities.dll
+C:\CSharp\HarshaBank\HarshaBank.Entities\bin\Debug\HarshaBank.Entities.pdb
+C:\CSharp\HarshaBank\HarshaBank.Entities\bin\Debug\HarshaBank.Exceptions.dll
+C:\CSharp\HarshaBank\HarshaBank.Entities\bin\Debug\HarshaBank.Exceptions.pdb
+C:\CSharp\HarshaBank\HarshaBank.Entities\obj\Debug\HarshaBank.Entities.csprojAssemblyReference.cache
+C:\CSharp\HarshaBank\HarshaBank.Entities\obj\Debug\HarshaBank.Entities.csproj.CoreCompileInputs.cache
+C:\CSharp\HarshaBank\HarshaBank.Entities\obj\Debug\HarshaBank.Entities.csproj.CopyComplete
+C:\CSharp\HarshaBank\HarshaBank.Entities\obj\Debug\HarshaBank.Entities.dll
+C:\CSharp\HarshaBank\HarshaBank.Entities\obj\Debug\HarshaBank.Entities.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Entities\bin\Debug\HarshaBank.Entities.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Entities\bin\Debug\HarshaBank.Entities.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Entities\bin\Debug\HarshaBank.Exceptions.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Entities\bin\Debug\HarshaBank.Exceptions.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Entities\obj\Debug\HarshaBank.Entities.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Entities\obj\Debug\HarshaBank.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Entities\obj\Debug\HarshaBank.Entities.csproj.CopyComplete
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Entities\obj\Debug\HarshaBank.Entities.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Entities\obj\Debug\HarshaBank.Entities.pdb

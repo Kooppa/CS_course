@@ -1,0 +1,12 @@
+C:\CSharp\HarshaBank\HarshaBank.Configuration\bin\Debug\HarshaBank.Configuration.dll
+C:\CSharp\HarshaBank\HarshaBank.Configuration\bin\Debug\HarshaBank.Configuration.pdb
+C:\CSharp\HarshaBank\HarshaBank.Configuration\obj\Debug\HarshaBank.Configuration.csprojAssemblyReference.cache
+C:\CSharp\HarshaBank\HarshaBank.Configuration\obj\Debug\HarshaBank.Configuration.csproj.CoreCompileInputs.cache
+C:\CSharp\HarshaBank\HarshaBank.Configuration\obj\Debug\HarshaBank.Configuration.dll
+C:\CSharp\HarshaBank\HarshaBank.Configuration\obj\Debug\HarshaBank.Configuration.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Configuration\bin\Debug\HarshaBank.Configuration.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Configuration\bin\Debug\HarshaBank.Configuration.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Configuration\obj\Debug\HarshaBank.Configuration.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Configuration\obj\Debug\HarshaBank.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Configuration\obj\Debug\HarshaBank.Configuration.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Configuration\obj\Debug\HarshaBank.Configuration.pdb

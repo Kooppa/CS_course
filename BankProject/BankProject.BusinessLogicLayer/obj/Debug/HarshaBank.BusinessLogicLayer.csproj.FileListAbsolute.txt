@@ -1,0 +1,30 @@
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.BusinessLogicLayer.dll
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.BusinessLogicLayer.pdb
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Configuration.dll
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.DataAccessLayer.dll
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Entities.dll
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Exceptions.dll
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Configuration.pdb
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.DataAccessLayer.pdb
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Entities.pdb
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Exceptions.pdb
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\obj\Debug\HarshaBank.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\obj\Debug\HarshaBank.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\obj\Debug\HarshaBank.BusinessLogicLayer.csproj.CopyComplete
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\obj\Debug\HarshaBank.BusinessLogicLayer.dll
+C:\CSharp\HarshaBank\HarshaBank.BusinessLogicLayer\obj\Debug\HarshaBank.BusinessLogicLayer.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.BusinessLogicLayer.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.BusinessLogicLayer.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Configuration.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.DataAccessLayer.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Entities.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Exceptions.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Configuration.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.DataAccessLayer.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Entities.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\bin\Debug\HarshaBank.Exceptions.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\obj\Debug\HarshaBank.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\obj\Debug\HarshaBank.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\obj\Debug\HarshaBank.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\obj\Debug\HarshaBank.BusinessLogicLayer.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.BusinessLogicLayer\obj\Debug\HarshaBank.BusinessLogicLayer.pdb

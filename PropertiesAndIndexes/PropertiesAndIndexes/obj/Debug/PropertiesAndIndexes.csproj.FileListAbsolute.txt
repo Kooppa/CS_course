@@ -1,0 +1,8 @@
+C:\Users\hbanozmartinez\source\repos\C# course\PropertiesAndIndexes\PropertiesAndIndexes\bin\Debug\PropertiesAndIndexes.exe.config
+C:\Users\hbanozmartinez\source\repos\C# course\PropertiesAndIndexes\PropertiesAndIndexes\bin\Debug\PropertiesAndIndexes.exe
+C:\Users\hbanozmartinez\source\repos\C# course\PropertiesAndIndexes\PropertiesAndIndexes\bin\Debug\PropertiesAndIndexes.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\PropertiesAndIndexes\PropertiesAndIndexes\obj\Debug\PropertiesAndIndexes.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\PropertiesAndIndexes\PropertiesAndIndexes\obj\Debug\PropertiesAndIndexes.csproj.SuggestedBindingRedirects.cache
+C:\Users\hbanozmartinez\source\repos\C# course\PropertiesAndIndexes\PropertiesAndIndexes\obj\Debug\PropertiesAndIndexes.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\PropertiesAndIndexes\PropertiesAndIndexes\obj\Debug\PropertiesAndIndexes.exe
+C:\Users\hbanozmartinez\source\repos\C# course\PropertiesAndIndexes\PropertiesAndIndexes\obj\Debug\PropertiesAndIndexes.pdb

@@ -1,0 +1,12 @@
+C:\CSharp\HarshaBank\HarshaBank.Exceptions\bin\Debug\HarshaBank.Exceptions.dll
+C:\CSharp\HarshaBank\HarshaBank.Exceptions\bin\Debug\HarshaBank.Exceptions.pdb
+C:\CSharp\HarshaBank\HarshaBank.Exceptions\obj\Debug\HarshaBank.Exceptions.csprojAssemblyReference.cache
+C:\CSharp\HarshaBank\HarshaBank.Exceptions\obj\Debug\HarshaBank.Exceptions.csproj.CoreCompileInputs.cache
+C:\CSharp\HarshaBank\HarshaBank.Exceptions\obj\Debug\HarshaBank.Exceptions.dll
+C:\CSharp\HarshaBank\HarshaBank.Exceptions\obj\Debug\HarshaBank.Exceptions.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Exceptions\bin\Debug\HarshaBank.Exceptions.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Exceptions\bin\Debug\HarshaBank.Exceptions.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Exceptions\obj\Debug\HarshaBank.Exceptions.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Exceptions\obj\Debug\HarshaBank.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Exceptions\obj\Debug\HarshaBank.Exceptions.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\HarshaBank.Exceptions\obj\Debug\HarshaBank.Exceptions.pdb

@@ -1,0 +1,6 @@
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Configuration\bin\Debug\BankProject.Configuration.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Configuration\bin\Debug\BankProject.Configuration.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Configuration\obj\Debug\BankProject.Configuration.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Configuration\obj\Debug\BankProject.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Configuration\obj\Debug\BankProject.Configuration.dll
+C:\Users\hbanozmartinez\source\repos\C# course\BankProject\BankProject.Configuration\obj\Debug\BankProject.Configuration.pdb

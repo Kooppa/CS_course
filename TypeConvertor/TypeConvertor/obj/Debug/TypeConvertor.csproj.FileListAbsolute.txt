@@ -1,0 +1,8 @@
+C:\Users\hbanozmartinez\source\repos\C# course\TypeConvertor\TypeConvertor\bin\Debug\TypeConvertor.exe.config
+C:\Users\hbanozmartinez\source\repos\C# course\TypeConvertor\TypeConvertor\bin\Debug\TypeConvertor.exe
+C:\Users\hbanozmartinez\source\repos\C# course\TypeConvertor\TypeConvertor\bin\Debug\TypeConvertor.pdb
+C:\Users\hbanozmartinez\source\repos\C# course\TypeConvertor\TypeConvertor\obj\Debug\TypeConvertor.csproj.AssemblyReference.cache
+C:\Users\hbanozmartinez\source\repos\C# course\TypeConvertor\TypeConvertor\obj\Debug\TypeConvertor.csproj.SuggestedBindingRedirects.cache
+C:\Users\hbanozmartinez\source\repos\C# course\TypeConvertor\TypeConvertor\obj\Debug\TypeConvertor.csproj.CoreCompileInputs.cache
+C:\Users\hbanozmartinez\source\repos\C# course\TypeConvertor\TypeConvertor\obj\Debug\TypeConvertor.exe
+C:\Users\hbanozmartinez\source\repos\C# course\TypeConvertor\TypeConvertor\obj\Debug\TypeConvertor.pdb
